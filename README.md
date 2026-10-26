@@ -5,7 +5,7 @@ Estudante de **Sistema de Informação**, focada em **Engenharia de Dados**, **A
 ---
 
 ### 🚀 Sobre mim
-- 🎓 **Formação:** Anhaguera e Estácio.
+- 🎓 **Formação:** Anhanguera e Estácio.
 - 💼 **Experiência:** Vivência na área administrativa/contábil, aplicando análise de dados e otimização de processos.
 - 💡 **Foco Atual:** Desenvolvimento de soluções orientadas a dados, cobrindo o fluxo completo de coleta, processamento, ETL e disponibilização de informações.
 - 🎯 **Objetivo:** Oportunidades de estágio em **Engenharia de Dados**, **Analytics**, **Backend** ou áreas correlatas.
